@@ -5,7 +5,7 @@
       "nome": "prod1",
       "descricao": "prod1",
       "preco": 899.99,
-      "imagem": "fundo-preto.jpg",
+      "imagem": "https://res.cloudinary.com/dzok2qpsz/image/upload/v1761496098/fundo-preto_ima4zm.avif",
       "quantidade": 10,
       "nota": 4.5
     },
@@ -14,7 +14,7 @@
       "nome": "prod2",
       "descricao": "prod2",
       "preco": 2299.99,
-      "imagem": "fundo-preto.jpg",
+      "imagem": "https://res.cloudinary.com/dzok2qpsz/image/upload/v1761496098/fundo-preto_ima4zm.avif",
       "quantidade": 10,
       "nota": 3
     },
@@ -23,7 +23,7 @@
       "nome": "prod3",
       "descricao": "prod3",
       "preco": 1299.99,
-      "imagem": "fundo-preto.jpg",
+      "imagem": "https://res.cloudinary.com/dzok2qpsz/image/upload/v1761496098/fundo-preto_ima4zm.avif",
       "quantidade": 10,
       "nota": 5
     },
@@ -32,7 +32,7 @@
       "nome": "prod4",
       "descricao": "prod4",
       "preco": 499.99,
-      "imagem": "fundo-preto.jpg",
+      "imagem": "https://res.cloudinary.com/dzok2qpsz/image/upload/v1761496098/fundo-preto_ima4zm.avif",
       "quantidade": 10,
       "nota": 2.5
     },
@@ -41,7 +41,7 @@
       "nome": "prod5",
       "descricao": "prod5",
       "preco": 1599.99,
-      "imagem": "fundo-preto.jpg",
+      "imagem": "https://res.cloudinary.com/dzok2qpsz/image/upload/v1761496098/fundo-preto_ima4zm.avif",
       "quantidade": 0,
       "nota": 4
     },
@@ -50,7 +50,7 @@
       "nome": "prod6",
       "descricao": "prod6",
       "preco": 299.99,
-      "imagem": "fundo-preto.jpg",
+      "imagem": "https://res.cloudinary.com/dzok2qpsz/image/upload/v1761496098/fundo-preto_ima4zm.avif",
       "quantidade": 10,
       "nota": 3.5
     },
@@ -59,7 +59,7 @@
       "nome": "prod7",
       "descricao": "prod7",
       "preco": 799.99,
-      "imagem": "fundo-preto.jpg",
+      "imagem": "https://res.cloudinary.com/dzok2qpsz/image/upload/v1761496098/fundo-preto_ima4zm.avif",
       "quantidade": 10,
       "nota": 4.8
     },
@@ -68,7 +68,7 @@
       "nome": "prod8",
       "descricao": "prod8",
       "preco": 399.99,
-      "imagem": "fundo-preto.jpg",
+      "imagem": "https://res.cloudinary.com/dzok2qpsz/image/upload/v1761496098/fundo-preto_ima4zm.avif",
       "quantidade": 10,
       "nota": 2
     }
